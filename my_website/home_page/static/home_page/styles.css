@@ -1,0 +1,50 @@
+* { background: #131516 }
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button_github {
+    background-color:#171515;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 50%;
+    transition-duration: 0.4s;
+  }
+
+  .button_github:hover {
+    background-color: #131919; /* Green */
+    color: snow;
+  }
+
+  .button_linkedin {
+    background-color:#0771B1;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 49%;
+    transition-duration: 0.4s;
+  }
+
+  .button_linkdin:hover {
+    background-color: #181919; /* Green */
+    color: snow;
+  }
